@@ -1,0 +1,15 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "a backend project with the guidance of chai aur backend youtube channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JS",
+    "Backend"
+  ],
+  "author": "Praveen Kumar Parida",
+  "license": "ISC"
+}
