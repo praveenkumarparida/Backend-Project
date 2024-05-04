@@ -2,14 +2,18 @@
   "name": "project",
   "version": "1.0.0",
   "description": "a backend project with the guidance of chai aur backend youtube channel",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "JS",
     "Backend"
   ],
   "author": "Praveen Kumar Parida",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
 }
